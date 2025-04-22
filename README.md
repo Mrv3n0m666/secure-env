@@ -16,3 +16,19 @@ SecureEnv ensures your environment variables are correctly validated, helping to
 
 ```bash
 npm install secure-env
+```
+
+## 🌱 Kontribusi untuk Tea Protocol
+
+Proyek ini adalah bagian dari kontribusi ke ekosistem [Tea Protocol](https://tea.xyz/), sebuah inisiatif untuk merevolusi cara penghargaan terhadap software open-source.
+
+🫶 Dengan mempublikasikan proyek ini secara open-source, kami berharap:
+
+- Mendukung OSS melalui tools yang sederhana tapi powerful
+- Memberikan nilai bagi developer & komunitas teknologi
+- Mendorong kontribusi berkelanjutan dan transparan
+
+🔗 **Lihat halaman proyek kami di Tea: (COMING SOON)**  
+(akan diperbarui setelah terdaftar resmi di [tea.xyz](https://tea.xyz))
+
+❤️ Jika kamu suka proyek ini, bantu bintangi repo & bagikan ke teman developer lainnya!
