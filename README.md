@@ -17,7 +17,7 @@ SecureEnv ensures your environment variables are correctly validated, helping to
 ```bash
 npm install secure-env
 ```
-
+[MIT License](LICENSE)
 ## 🌱 Kontribusi untuk Tea Protocol
 
 Proyek ini adalah bagian dari kontribusi ke ekosistem [Tea Protocol](https://tea.xyz/), sebuah inisiatif untuk merevolusi cara penghargaan terhadap software open-source.
