@@ -1,0 +1,22 @@
+{
+    "name": "@mrv3n0m/secure-env",
+    "version": "1.0.0",
+    "description": "A lightweight JavaScript library for secure environment variable parsing and validation",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest",
+      "lint": "eslint .",
+      "example": "node example.js"
+    },
+    "keywords": ["environment", "security", "validation", "node", "javascript"],
+    "author": "Puki Make <testceklow@hotmail.com>",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Mrv3n0m666/secure-env.git"
+    },
+    "devDependencies": {
+      "eslint": "^8.0.0",
+      "jest": "^29.0.0"
+    }
+  }
