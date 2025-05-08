@@ -12,6 +12,8 @@ SecureEnv ensures your environment variables are correctly validated, helping to
 - Detects potentially sensitive data (e.g., API keys, passwords) to prevent exposure.
 - Seamless integration with **Node.js**, **Express**, **React**, and more.
 
+[![npm version](https://badge.fury.io/js/@mrv3n0m%2Fsecure-env.svg)](https://www.npmjs.com/package/@mrv3n0m/secure-env)
+
 ## Installation
 
 ```bash
