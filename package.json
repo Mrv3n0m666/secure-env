@@ -1,6 +1,6 @@
 {
     "name": "@mrv3n0m/secure-env",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A lightweight JavaScript library for secure environment variable parsing and validation",
     "main": "index.js",
     "scripts": {
